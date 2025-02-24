@@ -31,10 +31,12 @@ python cartoonifier-python-project.py --image path/to/image.jpg
 
 ## Example
 Before:
-![Original](example_before.jpg)
+![Original](![therock](https://github.com/user-attachments/assets/a4b22549-56c5-40f2-8152-73a08bfafc19)
+)
 
 After:
-![Cartoonified](example_after.jpg)
+![Cartoonified](![cartoon](https://github.com/user-attachments/assets/357eafbf-36e6-4395-880e-d5e199aacf67)
+)
 
 ## License
 This project is licensed under the MIT License.
